@@ -8,3 +8,4 @@ CSMU_Taiwan team came up with a new detection method for early UTUC diagnosis ba
 
 **Wiki**: https://2021.igem.org/Team:CSMU_Taiwan  
 **Adward**:  Gold Medal
+**News**: https://rd.csmu.edu.tw/p/406-1015-53167,r582.php?Lang=zh-tw
