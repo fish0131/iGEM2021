@@ -1,6 +1,6 @@
 # iGEM2021  
 **CSMU Taiwan Team**  
-**Topic**: GOTCHA - A detection method of Upper Tract Urothelial Carcinoma (UTUC)  
+**Topic**: GotCha: A detection method of Upper Tract Urothelial Carcinoma (UTUC)  
 **Overview**:  
 CSMU_Taiwan team came up with a new detection method for early UTUC diagnosis based on microRNA capturing and rolling circle amplification(RCA).  
 > How GotCha works?  
